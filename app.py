@@ -56,6 +56,6 @@ st.dataframe(df)
 st.scatter_chart(
     df,
     x="longitude",
-    y="latitude"
+    y="latitude",
     color="launch_to_israel"
 )
